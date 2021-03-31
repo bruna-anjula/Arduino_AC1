@@ -13,5 +13,5 @@ const int botao2 = 8;
 
 void setup()
 {
-	pinMode(A0, INPUT);
-  pinMode(A1, INPUT);
+pinMode(A0, INPUT);
+pinMode(A1, INPUT);
